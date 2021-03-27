@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const path = require('path');
+/*const path = require('path');
 
 
 //new
@@ -13,7 +13,7 @@ app.get('./api', (req, res) => {
 app.get('/*', (req, res) => {
     res.sendFile(path.join(__dirname, 'build', 'index.html'))
 })
-//new
+//new*/
 
 const mongoose = require('mongoose');
 const cors = require('cors');
