@@ -27,7 +27,7 @@ mongoose.connect(URL, {
 });
 
 mongoose.connection.once("open", () => {
-    console.log("Connection success...!");
+    console.log("Connection succesful...!");
 }).on("error", (error) => {
     console.log("connection error:", error);
 })
