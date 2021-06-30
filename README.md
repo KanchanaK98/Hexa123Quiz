@@ -3,7 +3,7 @@
 Hello Everyone! We are team Hexa123.
 This is our first project of Web Technology Module of Level 1 Semester 2.
 There is a backend with a build folder in this repo. 
-You can go through this link to see Frontend of this project. 
+You can go through this link to see Frontend of this project. https://github.com/KanchanaK98/Hexa123Frontend.git
 
 
 This website has been build for childrens to improve their knowledge of English, Mathematics and General Knowledge.
